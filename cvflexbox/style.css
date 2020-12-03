@@ -1,0 +1,78 @@
+.contenaire{
+  
+    display:flex;
+    margin:15px;
+}
+.bloc{
+    
+    text-align: center;
+    width: 350px;
+    height: 350px;
+    margin: 5px;
+    flex-direction:row;
+    justify-content: space-between;
+}  
+
+.maldive{
+    display:flex;
+    margin:15px;
+    justify-content: flex-end;
+    text-align: center;
+}   
+}
+.brasil{
+    display:flex;
+    margin:15px;
+    text-align: center;
+    
+}
+.bloc1   {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin: 5px;
+    justify-content:center;
+}
+
+.mexique{
+    display:flex;
+    margin:15px;
+    
+}
+main {
+    background-color: #EF9AE2;no-repeat, center,center,fixed
+    background: cover;
+  }
+  
+  header {
+    background: #1E1E1E;
+    background: cover;
+  }
+  
+  header h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  
+  header div #logo {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  h2 {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  p {
+    font-family: 'Dosis', sans-serif;
+  }
+
+  img:hover {
+    border: 3px white solid;
+  }
+  
+  
+  footer {
+    text-align: center;
+    background-color: #EEEEEE;
+  }

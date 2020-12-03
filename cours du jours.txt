@@ -1,0 +1,10 @@
+03/12
+
+Git logiciel de comende:est un logiciel de gestion de version qui suit l'évolution des 
+l'évolution des fichiers sources et garde les anciennes version de chacun d'eux sans rien écraser
+cela permet de retouver les diffenrente version d'un fichier ou d'un lot de fichiers connexes.
+
+c'est un reseaux sociale pour les dev qu'on peut faire un projet en groupe en prennent une partie du projet Git permet de resanblée toute les code des dev different en un seul fichier d'un site internet.
+permet aussi de savoir qui a modifier le code en dernier.
+
+github plateford de souvegardement du code:
